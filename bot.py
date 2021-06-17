@@ -7,4 +7,4 @@ bot = commands.Bot(command_prefix='c!')
 async def on_ready():
     print(">> Coffee Machine starts working! <<")
 
-bot.run('ODU0OTEyMzA5NTU4MjQ3NDU0.YMq1Ig.kH2eDvDHm_JMyeX2gCMNyFmrE7Y')
+bot.run('ODU0OTEyMzA5NTU4MjQ3NDU0.YMq1Ig.A11cOpf--jB_YUWzhgLMA3y8AqM')
